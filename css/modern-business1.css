@@ -2,4 +2,6 @@
 description:  css override template
 authors: Austin and Greg
  */
- 
+ .navColor , .footerColor {
+   background-color: #34495E;
+ }
